@@ -5,7 +5,7 @@ div {
 body {
 color: rgba(0,0,0);
 margin: 0;
-background: linear-gradient(135deg,rgba(242, 116, 116)  50%, rgba(255, 255, 255) 50%); 
+background: linear-gradient(135deg,rgba(145, 255, 94)  50%, rgba(255, 255, 255) 50%); 
 font-size: larger;
 font-family: Ubuntu Light, Segoe UI Light, Arial !important;
  scroll-behavior: smooth;
